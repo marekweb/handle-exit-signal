@@ -1,6 +1,7 @@
 {
   "name": "handle-exit-signal",
   "version": "0.1.0",
+  "repository": "marekweb/handle-exit-signal",
   "scripts": {
     "test": "tap test.js -R spec",
     "format": "prettier --write --single-quote '**/*.js'"
