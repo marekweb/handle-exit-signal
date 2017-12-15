@@ -1,0 +1,12 @@
+{
+  "name": "handle-exit-signal",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "tap test.js -R spec",
+    "format": "prettier --write --single-quote '**/*.js'"
+  },
+  "devDependencies": {
+    "prettier": "^1.9.2",
+    "tap": "^11.0.0"
+  }
+}
